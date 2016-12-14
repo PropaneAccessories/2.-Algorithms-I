@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1481685622 source:c:\users\james\desktop\self taught programming\coursera code\2.-algorithms-i\assignments\percolation\main.cpp
+	<iostream>
+	"grid.h"
+
+1481685084 c:\users\james\desktop\self taught programming\coursera code\2.-algorithms-i\assignments\percolation\grid.h
+
+1481685598 source:c:\users\james\desktop\self taught programming\coursera code\2.-algorithms-i\assignments\percolation\grid.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"grid.h"
+
