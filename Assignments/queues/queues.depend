@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1482335245 source:c:\users\james\desktop\self taught programming\coursera code\2.-algorithms-i\assignments\queues\main.cpp
+	<iostream>
+	"dequeue.h"
+	"randomizedQueue.h"
+
+1482332241 source:c:\users\james\desktop\self taught programming\coursera code\2.-algorithms-i\assignments\queues\dequeue.cpp
+	"dequeue.h"
+	<iostream>
+
+1482332176 c:\users\james\desktop\self taught programming\coursera code\2.-algorithms-i\assignments\queues\dequeue.h
+
+1482336688 c:\users\james\desktop\self taught programming\coursera code\2.-algorithms-i\assignments\queues\randomizedqueue.h
+
+1482336654 source:c:\users\james\desktop\self taught programming\coursera code\2.-algorithms-i\assignments\queues\randomizedqueue.cpp
+	<iostream>
+	"randomizedQueue.h"
+	<stdlib.h>
+	<time.h>
+
